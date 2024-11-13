@@ -29,44 +29,78 @@ _Цель лабораторной работы_: изучение базовы�
 Лог может быть неполный потому что git bash закрывался и открывался несколько раз. 
 
 e358b23 HEAD@{0}: checkout: moving from report to master
+
 e358b23 HEAD@{1}: checkout: moving from master to report
+
 e358b23 HEAD@{2}: checkout: moving from report to master
+
 3d97f1c HEAD@{3}: commit: добавлена папка для скриншотов и сами скриншоты
+
 5bcb6b4 HEAD@{4}: commit: добавлен ход выполнения работы
+
 9e9da95 HEAD@{5}: commit: добавлены название и цель лабораторной работы
+
 e358b23 HEAD@{6}: reset: moving to HEAD
+
 e358b23 HEAD@{7}: checkout: moving from master to report
+
 e358b23 HEAD@{8}: revert: Revert "изменение 11_3"
+
 c3a8bef HEAD@{9}: reset: moving to HEAD~1
+
 af360ec HEAD@{10}: commit: коммит 11_4
+
 c3a8bef HEAD@{11}: commit: изменение 11_3
+
 6b2fa47 HEAD@{12}: commit (merge): конфликты
+
 454dc47 HEAD@{13}: commit: коммит 11
+
 4f72631 HEAD@{14}: merge file_6: Fast-forward
+
 81c3fe9 HEAD@{15}: checkout: moving from file_6 to master
+
 4f72631 HEAD@{16}: commit: file_6 сделан txt
+
 d446bb4 HEAD@{17}: commit: Добавлен новый файл newfile.txt
+
 81c3fe9 HEAD@{18}: checkout: moving from master to file_6
+
 81c3fe9 HEAD@{19}: checkout: moving from file_6 to master
+
 81c3fe9 HEAD@{20}: checkout: moving from new-feature to file_6
+
 81c3fe9 HEAD@{21}: checkout: moving from master to new-feature
+
 81c3fe9 HEAD@{22}: checkout: moving from master to master
+
 81c3fe9 HEAD@{23}: pull: Fast-forward
+
 921f53b HEAD@{24}: clone: from https://github.com/SpyBorgFly/LR6
 
 
 # История операций
 
 e358b23 - 2024-11-13 - 4315 Бабайкин Н.  П. - Revert "изменение 11_3"
+
 c3a8bef - 2024-11-13 - 4315 Бабайкин Н.  П. - изменение 11_3
+
 6b2fa47 - 2024-11-13 - 4315 Бабайкин Н.  П. - конфликты
+
 454dc47 - 2024-11-13 - 4315 Бабайкин Н.  П. - коммит 11
+
 4f72631 - 2024-11-13 - 4315 Бабайкин Н.  П. - file_6 сделан txt
+
 d446bb4 - 2024-11-13 - 4315 Бабайкин Н.  П. - Добавлен новый файл newfile.txt
+
 eed0c4b - 2024-11-13 - Nickolay Babaickin - Update file_6
+
 81c3fe9 - 2024-11-13 - Nickolay Babaickin - Create file_6
+
 921f53b - 2020-11-21 - Kurtyanik - Обновление информации
+
 c08a654 - 2020-11-21 - Kurtyanik - Файл создан пустым
+
 3c6e913 - 2020-11-21 - Kurtyanik - Initial commit
 =======
 >>>>>>> 3d97f1c5cf6e19fb62037e23e6e2bf25bde94fb4
