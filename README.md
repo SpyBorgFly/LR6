@@ -102,6 +102,3 @@ eed0c4b - 2024-11-13 - Nickolay Babaickin - Update file_6
 c08a654 - 2020-11-21 - Kurtyanik - Файл создан пустым
 
 3c6e913 - 2020-11-21 - Kurtyanik - Initial commit
-=======
->>>>>>> 3d97f1c5cf6e19fb62037e23e6e2bf25bde94fb4
-
